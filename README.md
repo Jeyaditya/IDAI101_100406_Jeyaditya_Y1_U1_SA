@@ -1,9 +1,10 @@
 # Jeyaditya_Y1_U1_SA
 A campus bot that gives you directions from the gate, what the canteen can offer, the offices location and the seminars that happen.
-Student name: Jeyaditya . A
-Registration number:100406
-Course name: Artificial intelligence real world application and implication.
-Link for Chatbot:  https://jeyaditya.github.io/IDAI101_100406_Jeyaditya_Y1_U1_SA/
+•	Student name: Jeyaditya . A 
+•	Registration number:100406 
+•	Course name: Artificial intelligence real world application and implication. 
+•	Link for Chatbot: https://jeyaditya.github.io/IDAI101_100406_Jeyaditya_Y1_U1_SA/
+
 
 IB Campus Bot – Project Documentation
 1. Introduction
