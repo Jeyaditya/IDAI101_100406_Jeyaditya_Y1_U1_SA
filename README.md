@@ -74,6 +74,10 @@ Some features we plan to add include:
 - Supporting multiple languages, since IB schools are multilingual.
 - Linking with live school systems for real-time timetables and event updates.
 - Adding voice integration for Google Assistant and other platforms.
-9. Final Thoughts
+
+7. Integration details:
+  I have integrated my chatbot through the dialogflow messenger and added it into an empty website for usage.
+
+8. Final Thoughts
 The IB Campus Bot is now ready for use. It covers the most common questions asked around an IB campus, while the directions part is a bit too vague. This project shows how AI can make daily school life more convenient and connected.
 
